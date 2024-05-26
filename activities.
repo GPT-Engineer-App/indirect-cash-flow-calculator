@@ -1,0 +1,56 @@
+[Company Name]
+Cash Flow Statement
+For the Year Ending [Date]
+
+Cash Flow from Operating Activities:
+-------------------------------------
+Net Income: $[Net Income]
+
+Adjustments for Non-Cash Expenses:
+  Add: Depreciation: $[Depreciation]
+  Add: Amortization: $[Amortization]
+  Add: Other Non-Cash Expenses: $[Other Non-Cash Expenses]
+
+Adjustments for Changes in Working Capital:
+  Add: Decrease in Accounts Receivable: $[Decrease in Accounts Receivable]
+  Subtract: Increase in Accounts Receivable: $[Increase in Accounts Receivable]
+  Add: Increase in Inventory: $[Increase in Inventory]
+  Subtract: Decrease in Inventory: $[Decrease in Inventory]
+  Add: Increase in Accounts Payable: $[Increase in Accounts Payable]
+  Subtract: Decrease in Accounts Payable: $[Decrease in Accounts Payable]
+
+Net Cash Flow from Operating Activities: $[Net Cash Flow from Operating Activities]
+
+Cash Flow from Investing Activities:
+-------------------------------------
+Cash Inflows:
+  Sale of Property, Plant, and Equipment (PPE): $[Sale of PPE]
+  Sale of Other Investments: $[Sale of Other Investments]
+
+Cash Outflows:
+  Purchase of Property, Plant, and Equipment (PPE): $[Purchase of PPE]
+  Purchase of Other Investments: $[Purchase of Other Investments]
+
+Net Cash Flow from Investing Activities: $[Net Cash Flow from Investing Activities]
+
+Cash Flow from Financing Activities:
+-------------------------------------
+Cash Inflows:
+  Issuance of New Common Stock: $[Issuance of New Common Stock]
+  Issuance of New Debt: $[Issuance of New Debt]
+
+Cash Outflows:
+  Repurchase of Common Stock: $[Repurchase of Common Stock]
+  Payment of Dividends: $[Payment of Dividends]
+  Repayment of Principal on Existing Debt: $[Repayment of Principal on Existing Debt]
+
+Net Cash Flow from Financing Activities: $[Net Cash Flow from Financing Activities]
+
+Net Increase (Decrease) in Cash: $[Net Increase (Decrease) in Cash]
+
+Cash at Beginning of Year: $[Cash at Beginning of Year]
+Cash at End of Year: $[Cash at End of Year]
+
+Explanation of Significant Adjustments:
+----------------------------------------
+[Provide a clear explanation of any significant adjustments made to net income, such as non-cash expenses, changes in working capital, etc.]
